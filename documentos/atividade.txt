@@ -1,1 +1,1 @@
-﻿Esta e a minha primeira atividade usando Git e GitHub pelo terminal.
+Minha primeira atividade utilizando Git e GitHub.
